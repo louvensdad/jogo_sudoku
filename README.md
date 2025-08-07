@@ -46,7 +46,7 @@ O projeto é composto pelas seguintes classes:
 
 ## Autor
 
-*   [Seu Nome]
+*   Louvensdad Constantin
 
 ## Contribuições
 
